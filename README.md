@@ -12,5 +12,5 @@ Here is a bried introdution of what each part of codes does.
 6. Trappist_main
    Main part. Simulate reactions and produce final graphs.
 
-If you want to ran the codes, please remember to change the position link of data files
+If you want to run the codes, please remember to change the position link of data files
 The data files are also uploaded.
